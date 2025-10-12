@@ -1,5 +1,7 @@
 # Proposals
 A curated selection of my strategic IT proposals across FinTech, AI, and Blockchain ecosystems. These works illustrate my approach to technology integration, innovation strategy, and solution design for emerging digital platforms.
+
+
 Strategic Technology Proposals Repository
 Collection of authored proposals spanning FinTech ecosystems, AI-integrated platforms, AI-enabled applications, and Blockchain-driven infrastructures.
 Each document represents applied strategy and architecture designed to move enterprises from concept to scalable deployment.
