@@ -27,6 +27,7 @@ Cloud-native modular design for scalability
 FinTech-grade data compliance and security
 Automation pipelines and integration logic
 Strategic storytelling with measurable ROI
+5. Master Service agreement between Client and company
 
 
 
